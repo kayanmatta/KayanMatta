@@ -13,18 +13,15 @@
 
 ## 🚀 Sobre Mim
 
-(Aqui você pode falar um pouco mais sobre seus objetivos)
 
-- 🔭 Atualmente trabalhando em... `(Ex: um projeto de portfólio em React)`
-- 🌱 Estou focado em aprender... `(Ex: novas features do TypeScript, Next.js...)`
-- 💬 Fique à vontade para me perguntar sobre... `(Python, React ou JavaScript!)`
-- 📫 Como me encontrar: `Kayandossantos123@gmail.com`
+- [cite_start]🔭 Atualmente trabalhando em... Meus projetos acadêmicos na FATEC-SJC (como a IDE **BotEcho** [cite: 13] [cite_start]e a plataforma **EasyScrum** [cite: 17]) e no meu portfólio pessoal.
+- 🌱 Estou focado em aprender... A aprofundar meus conhecimentos em **Python** e evoluir no desenvolvimento web com **React** e **Tailwind CSS**.
+- [cite_start]💬 Fique à vontade para me perguntar sobre... **Java**, **Python** [cite: 22][cite_start], metodologias ágeis (como **Scrum**) [cite: 25] [cite_start]e suporte técnico (Windows, impressoras térmicas e redes)[cite: 36, 39, 40].
+- [cite_start]📫 Como me encontrar: **Kayandossantos123@gmail.com** [cite: 6]
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-
-(Aqui estão as tecnologias que você listou, no formato de "badge")
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -40,8 +37,6 @@
 
 ## 📊 Minhas Estatísticas do GitHub
 
-**IMPORTANTE:** Não se esqueça de trocar `SEU_USERNAME` pelo seu nome de usuário real do GitHub para isso funcionar!
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayanmatta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayanmatta&layout=compact&langs_count=7&theme=dracula"/>
@@ -50,8 +45,6 @@
 ---
 
 ## 📬 Conecte-se Comigo
-
-(Aqui estão os links que você já tinha, todos juntos!)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kayan-da-matta/" target="_blank">
