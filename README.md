@@ -1,4 +1,4 @@
-## Oiii eu sou a Kayan da Matta, desenvolvedor de sistemas e Web, apaixonado por tecnologia!
+## Olá eu sou a Kayan da Matta, desenvolvedor de sistemas e Web, apaixonado por tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kayan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
