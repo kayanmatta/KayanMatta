@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  Desenvolvedora de sistemas e Web, apaixonada por tecnologia!
+  Desenvolvedor de sistemas e Web, apaixonado por tecnologia!
 </p>
 
 ---
